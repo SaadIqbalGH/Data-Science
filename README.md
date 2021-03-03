@@ -3,6 +3,6 @@
 # Data Science BootCamp 1 conducted by DEEP LEARNING TECH
 ## Dated: 27-FEB-2021
 ### Projects &amp; Assignments
-\n Project 1: Ecommerce Online Store Dataset
-\n Project 2: Patient General Assesment Dataset
-\n Project 3: Real Estate Dataset
+'\n' Project 1: Ecommerce Online Store Dataset
+'\n' Project 2: Patient General Assesment Dataset
+'\n' Project 3: Real Estate Dataset
